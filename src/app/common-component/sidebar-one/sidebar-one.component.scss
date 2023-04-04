@@ -1,0 +1,26 @@
+.none {
+  display: none !important;
+}
+
+.block {
+  display: block !important;
+}
+
+#sidebar .sidebar-inner {
+  width: 100%;
+}
+
+.mainactive {
+  background: #1b2850;
+  color: #fff;
+  background-color: white;
+}
+
+.sidebar-menu {
+  .nav-link {
+    span {
+      border-top-left-radius: 8px;
+      border-bottom-left-radius: 8px;
+    }
+  }
+}
